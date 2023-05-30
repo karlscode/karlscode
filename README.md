@@ -5,7 +5,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Carlos Anderson and I'm Full Stack developer.
+My name is Carlos Anderson and I'm a professor of systems development.
 
 - 🔭 I’m currently working from home on personal projects
 - 👯 I’m looking to collaborate on open source projects
@@ -15,6 +15,5 @@ My name is Carlos Anderson and I'm Full Stack developer.
   - ReactJS
   - React Native
   - TypeScript
-  - Python
   - Software Architecture
   - Machine Learning
