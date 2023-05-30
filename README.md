@@ -5,7 +5,7 @@
 
 ### Hi! 👋 Welcome to my profile
 
-My name is Carlos Anderson and I'm a professor of systems development.
+My name is Carlos Anderson and I'm a teacher of systems development.
 
 - 🔭 I’m currently working from home on personal projects
 - 👯 I’m looking to collaborate on open source projects
