@@ -8,9 +8,9 @@
 My name is Carlos Anderson.
 
 👨🏽‍🏫 I am a teacher of systems development <p>
-👨🏽‍💻 I’m currently working from home on personal projects.
-🔭 I’m looking to collaborate on open source projects.
-🌱 I’m currently learning: 
-    - Software Architecture
-    - Machine Learning
+👨🏽‍💻 I’m currently working from home on personal projects <p>
+🔭 I’m looking to collaborate on open source projects <p>
+🌱 I’m currently learning: <p>
+    - Software Architecture <p>
+    - Machine Learning <p>
     
