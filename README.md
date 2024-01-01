@@ -7,7 +7,7 @@
 
 My name is Carlos Anderson.
 
-👨🏽‍🏫 I am a teacher of systems development.
+👨🏽‍🏫 I am a teacher of systems development <p>
 👨🏽‍💻 I’m currently working from home on personal projects.
 🔭 I’m looking to collaborate on open source projects.
 🌱 I’m currently learning: 
